@@ -23,4 +23,6 @@ Este projeto foi desenvolvido em parceria por:
 
 📌 Observações
 
+Este repositório tem caráter educacional e tem como finalidade documentar o processo de aprendizagem durante a capacitação.
+
 
