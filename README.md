@@ -13,6 +13,7 @@ O objetivo principal foi aplicar fundamentos de projeto de sistemas digitais, in
 
 👥 Equipe
 Este projeto foi desenvolvido em parceria por:
+
   Raissa Priscila Crispim
   Ewerton Barbosa do Nascimento Amaro
 
