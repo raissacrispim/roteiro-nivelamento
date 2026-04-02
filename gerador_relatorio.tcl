@@ -1,7 +1,5 @@
-# -----------------------------------------------------------
-# TAREFA 4: Gerador de Relatório Completo (Amálgama)
-# Este script une as funcionalidades de contagem, hierarquia e conexões.
-# -----------------------------------------------------------
+# Gerador de Relatório Completo (Amalgama)
+# Este script une as funcionalidades de contagem, hierarquia e conexões
 
 puts "========================================================="
 puts "             RELATÓRIO TÉCNICO DE DESIGN EDA             "
@@ -20,5 +18,5 @@ puts "\n>> ANÁLISE DE FANOUT:"
 source estatisticas_conexoes.tcl
 
 puts "\n========================================================="
-puts "             FIM DO RELATÓRIO - CI EXPERT                "
-puts "========================================================="
+puts "             FIM DO RELATÓRIO                              "
+puts "==========================================================="
